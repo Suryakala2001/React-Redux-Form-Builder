@@ -1,0 +1,24 @@
+package.json
+tsconfig.json
+public/index.html
+src/
+  index.tsx
+  App.tsx
+  types.ts
+  store/
+    index.ts
+    formSlice.ts
+  utils/
+    localStorage.ts
+    validators.ts
+  components/
+    Builder/
+      CreateForm.tsx
+      FieldEditor.tsx
+      FieldList.tsx
+    Preview/
+      PreviewForm.tsx
+      FormRenderer.tsx
+    MyForms/
+      MyForms.tsx
+  styles.css
